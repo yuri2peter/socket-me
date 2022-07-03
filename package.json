@@ -1,0 +1,27 @@
+{
+  "name": "socket-me",
+  "version": "1.0.0",
+  "description": "一个支持开放socketio客户端协议的服务端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuri2peter/socket-me.git"
+  },
+  "keywords": [
+    "socket.io",
+    "websocket"
+  ],
+  "author": "yuri2peter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuri2peter/socket-me/issues"
+  },
+  "homepage": "https://github.com/yuri2peter/socket-me#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
